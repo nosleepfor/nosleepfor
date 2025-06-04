@@ -20,3 +20,5 @@ What do I even write here?? uh...
 - I speak Russian and English
 - My primary programming languages are php, python and nim
 **That's it ig**
+
+![Funny unico image](images.steamusercontent.jpg)
