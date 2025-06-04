@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 What do I even write here?? uh...
 - I like cats and coding
 - I speak Russian and English
-- My primary programming languages are php, python and nim
+- My primary programming languages are php, python and nim  
 **That's it ig**
 
 ![Funny unico image](images.steamusercontent.jpg)
