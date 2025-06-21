@@ -1,25 +1,13 @@
 Hello!1
 
-<!--
-**nosleepfor/nosleepfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-What do I even write here?? uh...
-- I like cats and coding
-- I speak Russian and English
-- My primary programming languages are php, python and nim\
-\
-**That's it ig**
-
-![Funny unico image](images.steamusercontent.jpg)
+Idk what to write here but...
+<br>
+I like cats😺<br>
+... and coding,
+<br><br>
+I speak 🇷🇺Russian and 🇺🇸English languages.
+<br>
+My primary programming languages are: Nim, Python and PHP
+<br><br>
+Here's a funny cat gif
+![Funny unico image](https://media.tenor.com/qY-Un3fC5FgAAAAM/cat-meme.gif)
